@@ -1,5 +1,5 @@
 public class HelloWorld {
 	public static void main(String[] args){
-		System.out.println("Hello World!");  // This is my first Eclipse Application.
+		System.out.println("Hello World Dong!");  // This is my first Eclipse Application.
 	}
 }
